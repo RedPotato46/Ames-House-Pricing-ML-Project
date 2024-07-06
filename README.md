@@ -5,6 +5,7 @@ To undertake these tasks, we will be using a data set - Ames house pricing. This
 # Scenario
 
 Predicting housing prices is of interest to potential buyers, sellers, and organizations alike. Multiple online platforms offer, for example, a free “price estimate” based on underlying machine learning models. For this assignment, we are going to build the best machine learning model we can for Ames, Iowa. The data set consists of 79 features that describe the quality and quantity of the properties to base our predictions.
+
 This assignment aims to provide a glimpse of the process of model selection with 3 candidate models: 
 
 Linear regression
