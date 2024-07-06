@@ -1,2 +1,3 @@
 # Ames-House-Pricing-ML-Project
 
+To undertake these tasks, we will be using a data set - Ames house pricing. This data set is a repository of all the houses that were sold in the Ames region in the USA. It has roughly 80 useful features describing the houses’ size, location, and various amenities offered. All these features go on to determine the selling price of the houses. This data set has been used extensively by machine learning enthusiasts and data scientists for projects on ‘house price prediction’. This data set, with its versatility and a good mix of numerical and categorical features, is a good data set to experiment on with multiple types of ML models.
